@@ -325,7 +325,7 @@ h6{
 }
 .intro-mobile {
     position: absolute;
-    left: 0px;
+    right: 0px;
     bottom:-250px; /* negtivae value of section bottom padding */
     max-width: 50%;
 }
@@ -437,14 +437,14 @@ h6{
 
 .left-mob-front{
     position: absolute;
-    left: 12%;
+    right: 12%;
     margin: 0px auto;
     top:-40px;
     z-index: 2;
 }
 .left-mob-back {
     position: absolute;
-    left:0px;
+    right:0px;
     top:-20px;
     z-index: 1;
 }
@@ -466,14 +466,14 @@ h6{
 }
 .right-mob-front{
     position: absolute;
-    right: 12%;
+    left: 12%;
     margin: 0px auto;
     top:-40px;
     z-index: 2;
 }
 .right-mob-back {
     position: absolute;
-    right:0px;
+    left: 0px;
     top:-20px;
     z-index: 1;
 }
@@ -841,4 +841,7 @@ footer p a,footer p a:hover,footer p a:focus {
 /* Custom, iPhone Retina */
 @media only screen and (max-width : 320px) {
 
+}
+.yusuf{
+    
 }
