@@ -78,7 +78,7 @@ body,html {
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Cairo', sans-serif;
     font-size: 16px;
     font-weight: 300;
     letter-spacing: 1px;
@@ -117,7 +117,7 @@ a:hover,a:focus{
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Cairo', sans-serif;
     font-weight: 100;
     margin-bottom: 20px;
     line-height: 1.4;
@@ -295,7 +295,7 @@ h6{
 .navbar-nav li a {
     padding: 10px;
     line-height: 30px;
-    font-size: 12px;
+    font-size: 18px;
     color: #999;
     position: relative;
     background: transparent !important;
@@ -308,7 +308,7 @@ h6{
     outline: none;
 }
 .navbar-nav li.active a,.navbar-nav li a:hover {
-    color:#29282b;
+    color:#3c55f0;
 }
 .navbar-toggle{
     padding: 5px 10px;
@@ -318,7 +318,7 @@ h6{
 
 #intro{
     background: #f1f1f1;
-    padding: 250px 0px;
+    padding: 170px 0px;
     position: relative;
     z-index: 1;
     overflow: hidden;
@@ -351,7 +351,7 @@ h6{
     width: 100%;      
 }
 .downloadNumber{
-    background: #f44c67;
+    background: #3C55F0;
     color: #fff;
     display: inline-block;
     padding:10px 30px;
@@ -380,7 +380,7 @@ h6{
     margin: 0 auto;
 }
 .allinone_carousel.sweet .elementTitle{
-    color: #888;
+    color: #333;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
 
@@ -415,7 +415,7 @@ h6{
 
 /* share ---------------------------------------------------------------- */
 #share{
-    background:url("../images/stars.png") no-repeat top left #F45368;
+    background:url("../images/stars.png") no-repeat top left #3C55F0;
     text-align: center;
 }
 #share h2{
@@ -841,4 +841,20 @@ footer p a,footer p a:hover,footer p a:focus {
 /* Custom, iPhone Retina */
 @media only screen and (max-width : 320px) {
 
+}
+.colorBleu {
+    color: #3C55F0;
+    padding: 5px;
+    letter-spacing: normal;
+    font-weight: bold;
+}
+.mySpacing {
+    line-height: 160%;
+}
+.myBold {
+    font-weight: bold;
+}
+.colorWhite {
+    color: rgba(255,255,255);
+    letter-spacing: initial;
 }
