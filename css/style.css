@@ -46,7 +46,7 @@
     position: absolute;
     left: 50%;
     top: 50%;
-    margin: -25px 0 0 -50px;
+    margin: auto;
 }
 
 /* top line LOADER */
@@ -857,4 +857,10 @@ footer p a,footer p a:hover,footer p a:focus {
 .colorWhite {
     color: rgba(255,255,255);
     letter-spacing: initial;
+}
+.mySize {
+    width: 50px;
+    margin-bottom: 4px;
+    margin-top: 1px;
+    
 }
