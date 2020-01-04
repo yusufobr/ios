@@ -876,3 +876,9 @@ footer p a,footer p a:hover,footer p a:focus {
     font-weight: bold;
     font-size: 15px;
 }
+.myltr {
+    text-align: left;
+}
+.myLi {
+    border-left:  1px solid gray;
+}
