@@ -147,7 +147,7 @@ h6{
     width: auto;
 }
 .section{
-    padding:77px 0px;
+    padding:100px 0px;
     position: relative;
     z-index: 2;
     overflow: hidden;
@@ -863,4 +863,16 @@ footer p a,footer p a:hover,footer p a:focus {
     margin-bottom: 4px;
     margin-top: 1px;
     
+}
+.morePadding {
+    padding : 265px 0 265px 0;
+}
+.colorWhite {
+    color: #fff;
+    padding-bottom: 20px;
+}
+.myFooter {
+    letter-spacing: normal;
+    font-weight: bold;
+    font-size: 15px;
 }
