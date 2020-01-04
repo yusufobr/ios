@@ -61,7 +61,7 @@
     display: none;
 }
 .pace .pace-progress {
-    background: #F44C67;
+    background: #3C55F0;
     position: fixed;
     z-index: 99999;
     top: 0;
@@ -867,6 +867,7 @@ footer p a,footer p a:hover,footer p a:focus {
 .morePadding {
     padding : 265px 0 265px 0;
 }
+
 .colorWhite {
     color: #fff;
     padding-bottom: 20px;
