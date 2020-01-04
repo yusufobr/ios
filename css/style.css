@@ -189,7 +189,7 @@ h6{
     z-index: 1;
     -webkit-backface-visibility: hidden;
     -moz-osx-font-smoothing: grayscale;       
-    background: #F44C67;
+    background: #3C55F0;
     display: inline-block;
     padding: 15px 30px;
     -webkit-border-radius: 2px;
@@ -526,8 +526,7 @@ h6{
     text-align: center;
 }
 .form-control{
-    background: transparent;
-    border: 1px solid #ddd;
+    border: 1px solid #fff;
     height: 50px;
     margin-bottom: 20px;
     padding:10px 20px;
