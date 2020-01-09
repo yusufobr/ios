@@ -625,6 +625,10 @@ blockquote.pull-left {
     margin-right: 50%;
     margin-left: 0;
   }
+  .col-md-offset-62 {
+    margin-right: 0;
+    margin-left: 50%;
+  }
   .col-md-offset-5 {
     margin-right: 41.66666667%;
     margin-left: 0;
