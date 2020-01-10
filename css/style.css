@@ -947,6 +947,13 @@ footer p a:focus {
     .section {
         padding: 100px 0px;
     }
+    #intro2 {
+        text-align: center;
+    }
+    #intro2,
+    .section {
+        padding: 100px 0px;
+    }
     .overlay {
         padding-top: 100px;
         padding-bottom: 400px;
@@ -1081,7 +1088,7 @@ footer p a:focus {
 }
 
 .morePadding {
-    padding: 265px 0 265px 0;
+    padding: 60px 0 265px 0;
 }
 
 .colorWhite {
