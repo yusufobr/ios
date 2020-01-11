@@ -1109,3 +1109,7 @@ footer p a:focus {
 .myLi {
     border-left: 1px solid gray;
 }
+
+.myBlur{
+    box-shadow: 1px 1px 25px #3C55F0;
+}
