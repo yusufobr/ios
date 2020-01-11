@@ -432,6 +432,17 @@ h6 {
     overflow: hidden;
 }
 
+#intro22 {
+    background: #fff;
+    background-color: #fff;
+    background-position: center;
+    background-size: 1331px 662px;
+    padding: 220px 0px;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+
 .intro-mobile {
     position: absolute;
     right: 0px;
@@ -951,6 +962,13 @@ footer p a:focus {
         text-align: center;
     }
     #intro2,
+    .section {
+        padding: 100px 0px;
+    }
+    #intro22 {
+        text-align: center;
+    }
+    #intro22,
     .section {
         padding: 100px 0px;
     }
