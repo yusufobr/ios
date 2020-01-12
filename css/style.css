@@ -226,6 +226,7 @@ h6 {
 
 .titleSection h2 {
     margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .titleSection p {
@@ -421,7 +422,7 @@ h6 {
     overflow: hidden;
 }
 
-#intro2 {
+#intro0 {
     background: #fff;
     background-color: #fff;
     background-position: center;
@@ -430,6 +431,19 @@ h6 {
     position: relative;
     z-index: 1;
     overflow: hidden;
+    margin-bottom: -100px;
+}
+
+#intro2 {
+    background: #fff;
+    background-color: #fff;
+    background-position: center;
+    background-size: 1331px 662px;
+    padding: 187px 0px;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    margin-bottom: -100px;
 }
 
 #intro22 {
@@ -441,6 +455,7 @@ h6 {
     position: relative;
     z-index: 1;
     overflow: hidden;
+    margin-bottom: -100px;
 }
 
 .intro-mobile {
@@ -739,7 +754,7 @@ textarea.form-control {
 /* Footer ---------------------------------------------------------- */
 
 footer {
-    background: #29282b;
+    background: #3C55F0;
     text-align: center;
     padding: 150px 0px;
 }
@@ -956,22 +971,69 @@ footer p a:focus {
     }
     #intro,
     .section {
-        padding: 100px 0px;
+        padding: 25px 0px;
+    }
+    #intro0 {
+        text-align: center;
+    }
+    #intro0,
+    .section {
+        padding: 0px 0px;
+        margin-bottom: 0px;
     }
     #intro2 {
         text-align: center;
     }
     #intro2,
     .section {
-        padding: 100px 0px;
+        padding: 0px 0px;
+        margin-bottom: 0px;
     }
     #intro22 {
         text-align: center;
     }
     #intro22,
     .section {
-        padding: 100px 0px;
+        padding: 0px 0px;
+        margin-bottom: 0px;
     }
+
+    .titleSection h2 {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .btn-new {
+        max-width: 250px;
+        vertical-align: middle;
+        position: relative;
+        z-index: 1;
+        -webkit-backface-visibility: hidden;
+        -moz-osx-font-smoothing: grayscale;
+        background: #3C55F0;
+        display: inline-block;
+        padding: 15px 30px;
+        -webkit-border-radius: 2px;
+        -moz-border-radius: 2px;
+        border-radius: 2px;
+        color: #fff;
+        font-size: 14px;
+        font-weight: 400;
+        font-family: 'Roboto', sans-serif;
+        -webkit-transition: all .3s ease;
+        -moz-transition: all .3s ease;
+        -o-transition: all .3s ease;
+        transition: all .3s ease;
+        letter-spacing: 1px;
+        cursor: pointer;
+        line-height: 1.42857;
+        text-align: center;
+        white-space: nowrap;
+        border: none;
+        margin-bottom: 40px;
+        margin-top: 20px;
+    }
+
     .overlay {
         padding-top: 100px;
         padding-bottom: 400px;
