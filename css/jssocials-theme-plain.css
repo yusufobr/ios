@@ -1,7 +1,7 @@
 .jssocials-share-link {
   padding: .5em .6em;
   border-radius: 0.3em;
-  border: 1px solid rgba(255,255,255,0.4);
+  border: 1px solid #9EAAF8;
   color: #acacac;
   -webkit-transition: background 200ms ease-in-out, color 200ms ease-in-out, border-color 200ms ease-in-out;
           transition: background 200ms ease-in-out, color 200ms ease-in-out, border-color 200ms ease-in-out; }
