@@ -91,7 +91,6 @@ body {
     font-family: 'helveticaneuelt', sans-serif;
     font-size: 16px;
     font-weight: 300;
-    letter-spacing: 1px;
     line-height: 1.8;
     background: transparent;
     color: #29282b;
@@ -152,7 +151,6 @@ h6 {
     margin-bottom: 20px;
     line-height: 1.4;
     color: #29282b;
-    letter-spacing: 2px;
 }
 
 h1 {
@@ -267,7 +265,6 @@ h6 {
     -moz-transition: all .3s ease;
     -o-transition: all .3s ease;
     transition: all .3s ease;
-    letter-spacing: 1px;
     cursor: pointer;
     line-height: 1.42857;
     text-align: center;
@@ -765,7 +762,6 @@ footer hr {
 
 footer p {
     font-size: 11px;
-    letter-spacing: 4px;
     text-transform: uppercase;
     color: #fff;
 }
@@ -1024,7 +1020,6 @@ footer p a:focus {
         -moz-transition: all .3s ease;
         -o-transition: all .3s ease;
         transition: all .3s ease;
-        letter-spacing: 1px;
         cursor: pointer;
         line-height: 1.42857;
         text-align: center;
