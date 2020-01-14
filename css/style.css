@@ -274,7 +274,7 @@ h6 {
 
 .btn-new:hover,
 .btn-new:focus {
-    background: #FC647B;
+    background: rgb(8, 9, 44);
     color: #fff;
     text-decoration: none;
     outline: none;
@@ -413,7 +413,7 @@ h6 {
     background-color: #fff;
     background-position: center;
     background-size: 1331px 662px;
-    padding: 170px 0px;
+    padding: 180px 0px;
     position: relative;
     z-index: 1;
     overflow: hidden;
@@ -436,7 +436,7 @@ h6 {
     background-color: #fff;
     background-position: center;
     background-size: 1331px 662px;
-    padding: 187px 0px;
+    padding: 240px 0px;
     position: relative;
     z-index: 1;
     overflow: hidden;
@@ -448,7 +448,7 @@ h6 {
     background-color: #fff;
     background-position: center;
     background-size: 1331px 662px;
-    padding: 220px 0px;
+    padding: 273px 0px;
     position: relative;
     z-index: 1;
     overflow: hidden;
